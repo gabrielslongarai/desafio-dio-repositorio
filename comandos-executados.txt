@@ -2,3 +2,4 @@ git init
 git branch -M main
 git remote add origin https://github.com/gabrielslongarai/desafio-dio-repositorio.git
 git remote -v (lista os repositórios remotos)
+git pull
